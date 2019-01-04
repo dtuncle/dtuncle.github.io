@@ -11,5 +11,5 @@ permalink: /about/
 
 友情链接：
 
-> <a href="https://www.evilys.top/" target="_blank">Evilys</a>
+> <a href="https://www.evilys.top/" target="_blank">Evilys</a>  |  
 > <a href="https://www.luolikong.vip/" target="_blank">Fire ant</a>
